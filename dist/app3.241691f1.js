@@ -11208,7 +11208,7 @@ return jQuery;
 },{"process":"HKU1"}],"y8lT":[function(require,module,exports) {
 "use strict";
 
-require("./app3.76711b53.css");
+require("./app3.css");
 
 var _jquery = _interopRequireDefault(require("jquery"));
 
