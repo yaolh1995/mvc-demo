@@ -1,0 +1,38 @@
+#app2 .tab-bar,.tab-content{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    margin-right:5px;
+}
+#app2 .tab-bar>li{
+border: 1px solid black;
+padding: 5px;
+border-radius: 5px 0px 0px 0px;
+margin-top: 20px;
+width: 50%;
+}
+#app2 .tab-content {
+border: 1px solid black;
+height: 30vh;
+padding-left: 5px;
+padding-top: 5px;
+}
+
+
+#app2 .tab-bar {
+  display: flex;
+}
+
+#app2 .tab-bar > li.selected {
+  background: rgb(253, 221, 155);
+  color: white;
+}
+
+#app2 .tab-content > li {
+  display: none;
+}
+#app2 .tab-content > li.active {
+  display: block;
+}
+
+/*# sourceMappingURL=app2.f79856dd.css.map */

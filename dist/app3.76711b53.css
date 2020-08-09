@@ -1,0 +1,25 @@
+#app3{
+display: flex;
+padding-left: 5vw;
+justify-content: flex-start;
+align-items: center;
+}
+
+#app3 .cir{
+    border: 1px solid red;
+    width: 12vw;
+    height: 12vw;
+    border-radius:50% ;
+    transition: all 1s;
+}
+
+#app3>.cir.active{
+    border: 1px solid red;
+    width: 12vw;
+    height: 12vw;
+    border-radius:50% ;
+    transform: translateX(100%);
+    transition: all 1s;
+}
+
+/*# sourceMappingURL=app3.76711b53.css.map */

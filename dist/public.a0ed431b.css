@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,ol{list-style:none;}
+body {
+    width: 100vw;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+#app1 {
+    border: 1px solid red;
+    width: 50vw;
+    height: 50vh;
+}
+
+#app2 {
+    border: 1px solid red;
+    width: 50vw;
+    height: 50vh;
+}
+
+#app3 {
+    border: 1px solid red;
+    width: 50vw;
+    height: 50vh;
+}
+
+#app4 {
+    border: 1px solid red;
+    width: 50vw;
+    height: 50vh;
+}
+
+
+/*# sourceMappingURL=public.a0ed431b.css.map */

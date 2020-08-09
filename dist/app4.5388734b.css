@@ -1,0 +1,37 @@
+#app4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app4 .cir {
+    border: 1px solid red;
+    width: 10vw;
+    height: 10vw;
+    border-radius: 50%;
+}
+
+#app4 .cir.active {
+    border: 1px solid red;
+    background-color: red;
+    width: 10vw;
+    height: 10vw;
+    border-radius: 50%;
+    animation: change 3s infinite alternate linear;
+}
+
+@keyframes change {
+    0% {
+        background-color: red;
+    }
+
+    50% {
+        background-color: green;
+    }
+
+    0% {
+        background-color: yellow;
+    }
+}
+
+/*# sourceMappingURL=app4.5388734b.css.map */

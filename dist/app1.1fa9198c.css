@@ -1,0 +1,21 @@
+#app1 #number{
+    justify-content: center;
+    align-self: center;
+    margin-right: 50px;
+    border: 1px solid black;
+}
+#app1 {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#add1,#minus1,#mul2,#divide2{
+    height: 20px;
+    justify-content: center;
+    align-self: center;
+}
+
+/*# sourceMappingURL=app1.1fa9198c.css.map */
