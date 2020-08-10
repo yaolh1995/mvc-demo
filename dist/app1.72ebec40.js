@@ -11208,7 +11208,7 @@ return jQuery;
 },{"process":"HKU1"}],"US5u":[function(require,module,exports) {
 "use strict";
 
-require("./app1.1fa9198c.css");
+require("./app1.css");
 
 var _jquery = _interopRequireDefault(require("jquery"));
 
@@ -11245,5 +11245,5 @@ $button4.on("click", function () {
   localStorage.setItem("n", n);
   $number.text(n);
 });
-},{"./app1.1fa9198c.css":"zQT1","jquery":"juYr"}]},{},["US5u"], null)
-//# sourceMappingURL=app1.d290bb78.js.map
+},{"./app1.css":"zQT1","jquery":"juYr"}]},{},["US5u"], null)
+//# sourceMappingURL=app1.72ebec40.js.map

@@ -11208,7 +11208,7 @@ return jQuery;
 },{"process":"HKU1"}],"vZ5o":[function(require,module,exports) {
 "use strict";
 
-require("./app2.f79856dd.css");
+require("./app2.css");
 
 var _jquery = _interopRequireDefault(require("jquery"));
 
@@ -11227,5 +11227,5 @@ $tabBar.on("click", "li", function (e) {
   .addClass("active").siblings().removeClass("active");
 });
 $tabBar.children().eq(0).trigger('click');
-},{"./app2.f79856dd.css":"a6pm","jquery":"juYr"}]},{},["vZ5o"], null)
+},{"./app2.css":"a6pm","jquery":"juYr"}]},{},["vZ5o"], null)
 //# sourceMappingURL=app2.b0bee9ef.js.map

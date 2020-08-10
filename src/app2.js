@@ -1,5 +1,5 @@
 
-import './app2.f79856dd.css'
+import './app2.css'
 import $ from 'jquery'
 
 const $tabBar = $("#app2 .tab-bar");

@@ -1,6 +1,6 @@
 
-import "./app1.1fa9198c.css";
-import $ from "jquery";
+import "./app1.css";
+import $ from 'jquery';
 
 const $button1 = $("#add1");
 const $button2 = $("#minus1");
